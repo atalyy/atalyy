@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Cyberpunk Dalgalı Karşılama Başlığı -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:3a0ca3&height=190&section=header&text=Atalay%20Ege%20Kara&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%26%20Creative%20Web%20Explorer&descAlignY=62&descSize=18" width="100%" alt="Atalay Ege Kara Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00ffcc,100:3a0ca3&amp;height=190&amp;section=header&amp;text=Atalay%20Ege%20Kara&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Frontend%20%26%20Creative%20Web%20Explorer&amp;descAlignY=62&amp;descSize=18" width="100%" alt="Atalay Ege Kara Banner" />
 
   <!-- Dinamik Daktilo Animasyonu -->
   <a href="https://github.com/atalyy">
